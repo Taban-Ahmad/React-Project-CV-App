@@ -1,9 +1,12 @@
 import './App.css'
+import Form from './components/Form.jsx'
 
 function App() {
 
   return (
-    <h1>Hello React</h1>
+    <div>
+      <Form />
+    </div>
   )
 }
 
